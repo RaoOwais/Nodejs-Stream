@@ -1,0 +1,14 @@
+{
+  "name": "streams-nodejs",
+  "version": "1.0.0",
+  "description": "[-] Introduction\r [-] Streams are not ONLY for Streaming videos/Audios\r [-] Understanding streams and Buffers\r [-] Create http server\r [-] Downloading big files from server (a good way and a bad way)\r [-] copy files on file system (a good way and a bad way)\r [-] create custom steams (Readable/ Writeble/Transform)\r [-] String processing (a good way and a bad way)\r [-] pipes\r [-] Types of Streams\r [-] Object mode in Streams\r [-] Handle error in streams",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
